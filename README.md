@@ -34,7 +34,7 @@ A **full-stack machine learning web application** that predicts the likelihood o
 
 ## 🧭 1. Clone the Repository
 
-git clone https://github.com/BurlaSathwik/Diabetes-Prediction-App.git
+git clone https://github.com/saivaragani22/Diabetes-Prediction-System.git
 
 cd Diabetes-Prediction-App
 ## ⚙️ 2. Backend Setup (FastAPI)
